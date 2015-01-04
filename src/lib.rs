@@ -1,4 +1,4 @@
-#![feature(macro_rules, unsafe_destructor, globs)]
+#![feature(associated_types, macro_rules, unsafe_destructor, globs)]
 #![crate_name="openssl"]
 #![crate_type="rlib"]
 #![crate_type="dylib"]
